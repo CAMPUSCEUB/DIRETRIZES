@@ -27,8 +27,8 @@ Conceda aos alunos apenas as permissões necessárias para colaborar no reposit�
 
 ## Configuração do Project
 1. Crie um `project` partir do template institucional.
-2. Use um nome padronizado contendo o ano, o semestre de criação, a sigla do curso, a sigla de PI ou PF e o nome do repositório (ex. **261-CC-PI-II-SisControleVendas**)
-3. Se tiver mais de um `project` no mesmo semestre e curso para o repositório, insira uma letra após a disciplina. (ex.**261-CC-PI-II-A-SisControleVendas**)
+2. Use um nome padronizado contendo o ano, o semestre de criação, a sigla do curso, a sigla de PI ou PF e o nome do repositório (ex.: **261-CC-PI-II-SisControleVendas**)
+3. Se tiver mais de um `project` no mesmo semestre e curso para o repositório, insira uma letra após a disciplina. (ex.: **261-CC-PI-II-A-SisControleVendas**)
 4. Vincule o Project ao repositório correspondente 
 
 ## Cadência sugerida da sprint
