@@ -44,7 +44,7 @@ Mantenha esses nomes exatos para preservar a compatibilidade com os forms de `is
 
 Para evitar divergência de dados, adote uma fonte única por informação:
 
-- `Tipo`: definido pela label aplicada automaticamente pelo form de `issue` (`tipo: requisito`, `tipo: bug`, `tipo: documentacao`, `tipo: pesquisa`). O campo `Tipo` do `Project` apenas espelha essa label.
+- `Label`: definido pela `label` aplicada automaticamente pelo form de criação de uma `issue` (`tipo: enhacement`, `tipo: bug`, `tipo: documentation`, `tipo: researcha`). O campo `Tipo` do `Project` apenas espelha essa label para se planejar as Sprints com epics, features, PBI e tasks.
 - `Prioridade`: definida no campo de prioridade da `issue` no momento da criação. O campo `Prioridade` do `Project` apenas espelha esse valor.
 
 Não duplique a mesma informação em label e em campo ao mesmo tempo, para não criar registros conflitantes.
