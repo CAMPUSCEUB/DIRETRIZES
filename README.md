@@ -20,7 +20,7 @@ Neste repositório você irá encontrar as seguintes orientações:
 
 ## Visão Geral de como trabalhar nos repositórios
 
-1. Leia o [Guia dos Estudantes](guias/guia-alunos.md).
+1. Leia o [Guia dos Estudantes](guias/guia-estudantes.md).
 2. Consulte as `issues` abertas e a `milestone` da sprint atual.
 3. Crie uma `branch` a partir de uma `issue`.
 4. Abra um `pull request` para revisão.

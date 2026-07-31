@@ -7,7 +7,7 @@
 - Definir a visibilidade do repositório.
 - Revisar o arquivo `LICENSE` e substituir o placeholder por uma licença efetiva antes de usar ou publicar o repositório da turma.
 - Adicionar o professor como administrador ou mantenedor.
-- Adicionar os alunos com permissão de colaboração.
+- Adicionar os estudantes com permissão de colaboração.
 - Criar o GitHub `Project`.
 - Criar as `milestones` das sprints.
 - Criar as labels institucionais.

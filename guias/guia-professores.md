@@ -9,7 +9,7 @@ Este guia orienta os professores a usar o template institucional em disciplinas 
 1. Crie um repositório a partir do [TEMPLATE-repositorio-projeto-integrador](https://github.com/CAMPUSCEUB/TEMPLATE-repositorio-projeto-integrador).
 2. Use um nome do projeto que representa o sistema ou ativo de TI que será gerado e que tenha sido aprovado no subsistema de portfólio de TI. (ex. **SisControleVendas**)
 3. Defina a visibilidade conforme a política institucional da Cátedra de Projetos de TI.
-4. Convide os alunos para o repositório com a permissão adequada.5.    
+4. Convide os estudantes para o repositório com a permissão adequada.5.    
 6. Configure o GitHub `project`, as `milestones`,  e a proteção da `main`.
 7. Antes de publicar ou reutilizar o repositório fora da turma, revise o arquivo `LICENSE` e substitua o placeholder por uma licença efetiva.
 
@@ -19,11 +19,11 @@ Ao iniciar a turma, configure o repositório como espaço oficial da disciplina,
 
 ## Equipes
 
-Organize os alunos em times conforme a estratégia da disciplina. Os times podem representar grupos fixos de projeto ou apenas facilitar a administração de acesso, o acompanhamento e a distribuição de responsabilidade dentro do GitHub Enterprise.
+Organize os estudantes em times conforme a estratégia da disciplina. Os times podem representar grupos fixos de projeto ou apenas facilitar a administração de acesso, o acompanhamento e a distribuição de responsabilidade dentro do GitHub Enterprise.
     
 ## Permissões
 
-Conceda aos alunos apenas as permissões necessárias para colaborar no repositório, mantendo a governança institucional sobre a `main`, os artefatos avaliativos e as configurações principais do projeto.
+Conceda aos estudantes apenas as permissões necessárias para colaborar no repositório, mantendo a governança institucional sobre a `main`, os artefatos avaliativos e as configurações principais do projeto.
 
 ## Configuração do Project
 1. Crie um `project` partir do template institucional.
@@ -61,12 +61,12 @@ Para facilitar, pense em uma EAP (Estrutura Analítica do Projeto).   O sistema 
 
 Como organizar então as Issues que representam os requisitos de um sistema?
 
-1. Estimule os alunos a dividir o sistema em módulos.  Por exemplo: o módulo de "Contas a Pagar".
+1. Estimule os estudantes a dividir o sistema em módulos.  Por exemplo: o módulo de "Contas a Pagar".
 2. Para cada módulo, peça para o aluno criar uma `issue` do Tipo "epic".
-3. Peça para os alunos dividirem os módulos em grandes funcionalidades. No caso do "Contas a Pagar", seriam por exemplo: "Cadastro de Fornecedores", "Agendamento de Boletos", "Conciliação Bancária" e "Alertas de vencimento"
+3. Peça para os estudantes dividirem os módulos em grandes funcionalidades. No caso do "Contas a Pagar", seriam por exemplo: "Cadastro de Fornecedores", "Agendamento de Boletos", "Conciliação Bancária" e "Alertas de vencimento"
 4. Crie sub-issues aos `epic` uma `issue` do tipo `feature` para cada funcionalidade.
-5. Peça aos alunos para localizarem o `Project` correspondente ao Repositório do sistema.
-6. Para cada `issue` do tipo `feature`, peça aos alunos para pensarem em User Story que consigam ser desenvolvidas dentro de uma Sprint.
+5. Peça aos estudantes para localizarem o `Project` correspondente ao Repositório do sistema.
+6. Para cada `issue` do tipo `feature`, peça aos estudantes para pensarem em User Story que consigam ser desenvolvidas dentro de uma Sprint.
 7. Para cada User Story, peça para que cadastrem uma `issue` do tipo `PBI`
 8. Para cada `issue` do tipo `PBI`, peça para que o aluno planeje as tarefas que serão necessárias de executar para entregar o `PBI`. 
 9. Para cada tarefa, cadastre uma subissue do tipo `task`. Lembre-se de que as tarefas devem estar com o verbo no infinitivo e que tenham alocação apenas para um aluno! Evite grupos em tarefas para não perder a rastreabilidade de quem fez o quê.
@@ -81,7 +81,7 @@ A rubrica sugerida está em [rubrica-avaliacao.md](rubrica-avaliacao.md). O prof
 
 ## Integração contínua (opcional)
 
-Se a disciplina quiser aproximar os alunos de práticas de mercado, é possível adicionar um fluxo leve de integração contínua independente de stack, como verificação de Markdown ou de links. Trate esse recurso como opcional, para não tornar o processo pesado em disciplinas iniciais.
+Se a disciplina quiser aproximar os estudantes de práticas de mercado, é possível adicionar um fluxo leve de integração contínua independente de stack, como verificação de Markdown ou de links. Trate esse recurso como opcional, para não tornar o processo pesado em disciplinas iniciais.
 
 ## Operação da turma
 
