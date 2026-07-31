@@ -7,9 +7,8 @@ Este repositório tem como objetivo reunir guias e orientações para alunos e p
 Neste repositório você irá encontrar as seguintes orientações:
 
 
-* [Guia dos Alunos](Guia%20dos%20Alunos.MD) 
-* [Guia dos Professores](https://github.com/CAMPUSCEUB/TEMPLATE-repositorio-projeto-integrador/tree/main/docs/guia-professores.md)
-
+* Para Alunos: [Guia dos Alunos](guias/guias-alunos.md)) 
+* Pra Professores: 
 
 | Item | Link |
 | --- | --- |
