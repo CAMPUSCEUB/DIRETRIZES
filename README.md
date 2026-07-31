@@ -6,9 +6,7 @@ Este repositório tem como objetivo reunir guias e orientações para alunos e p
 
 Neste repositório você irá encontrar as seguintes orientações:
 
-
-* Para Alunos: [Guia dos Alunos](guias/guias-alunos.md)) 
-* Pra Professores: 
+# Pra Professores: 
 
 | Item | Link |
 | --- | --- |
@@ -18,9 +16,11 @@ Neste repositório você irá encontrar as seguintes orientações:
 | Rubrica de avaliação | [guias/rubrica-avaliacao.md](guias/rubrica-avaliacao.md) |
 
 
+# Para Alunos:
+
 ## Visão Geral de como trabalhar nos repositórios
 
-1. Leia o [guia dos alunos](docs/guia-alunos.md).
+1. Leia o [guia dos alunos](guias/guia-alunos.md).
 2. Consulte as `issues` abertas e a `milestone` da sprint atual.
 3. Crie uma `branch` a partir de uma `issue`.
 4. Abra um `pull request` para revisão.
