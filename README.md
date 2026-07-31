@@ -1,4 +1,4 @@
-# Orientacção de Professores e Alunos
+# Orientação de Professores e Alunos
 Repositório para orientação de alunos e professores de Projetos Integradores
 
 
