@@ -9,9 +9,9 @@ Este guia orienta os professores a usar o template institucional em disciplinas 
 1. Crie um repositório a partir do [TEMPLATE-repositorio-projeto-integrador](https://github.com/CAMPUSCEUB/TEMPLATE-repositorio-projeto-integrador).
 2. Use um nome do projeto que representa o sistema ou ativo de TI que será gerado e que tenha sido aprovado no subsistema de portfólio de TI. (ex. **SisControleVendas**)
 3. Defina a visibilidade conforme a política institucional da Cátedra de Projetos de TI.
-4. Convide os alunos com a permissão adequada.
-5. Configure as `milestones`, as labels, o GitHub `Project` e a proteção da `main`.
-6. Antes de publicar ou reutilizar o repositório fora da turma, revise o arquivo `LICENSE` e substitua o placeholder por uma licença efetiva.
+4. Convide os alunos para o repositório com a permissão adequada.5.    
+6. Configure o GitHub `project`, as `milestones`,  e a proteção da `main`.
+7. Antes de publicar ou reutilizar o repositório fora da turma, revise o arquivo `LICENSE` e substitua o placeholder por uma licença efetiva.
 
 ## Configuração da turma
 
@@ -26,9 +26,10 @@ Organize os alunos em times conforme a estratégia da disciplina. Os times podem
 Conceda aos alunos apenas as permissões necessárias para colaborar no repositório, mantendo a governança institucional sobre a `main`, os artefatos avaliativos e as configurações principais do projeto.
 
 ## Configuração do Project
-1. Crie um Project partir do template institucional.
-2. Use um nome padronizado contendo o ano, o semestre de criação, a sigla do curso, a sigla de PI ou PF e o nome do Project (ex. 261-CC-PI-II-nome do project)
-3. Vincule o Project ao repositório correspondente 
+1. Crie um `project` partir do template institucional.
+2. Use um nome padronizado contendo o ano, o semestre de criação, a sigla do curso, a sigla de PI ou PF e o nome do Project (ex. **261-CC-PI-II-nome do repositório**)
+3. Se tiver mais de um `project` no mesmo semestre e curso para o repositório, insira uma letra após a disciplina. (ex.**261-CC-PI-II-A-nome do repositório**)
+4. Vincule o Project ao repositório correspondente 
 
 ## Cadência sugerida da sprint
 
