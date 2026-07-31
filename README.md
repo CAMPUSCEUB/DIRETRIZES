@@ -1,8 +1,8 @@
-# Orientação a Professores e Alunos
-Repositório para orientação de alunos e professores de Projetos Integradores
+# Orientações a Professores e Estudantes
+Repositório com orientações de uso do repositório institucional do CEUB no GitHub
+(para uso em projetos integradores, disciplinas regulares e outros projetos acadêmicos).
 
-
-Este repositório tem como objetivo reunir guias e orientações para alunos e professores para os projetos integradores do CEUB
+Este repositório tem como objetivo reunir guias e orientações para estudantes e professores na condução de projetos acadêmicos no GitHub institucional.
 
 Neste repositório você irá encontrar as seguintes orientações:
 
@@ -11,16 +11,16 @@ Neste repositório você irá encontrar as seguintes orientações:
 | Item | Link |
 | --- | --- |
 | Governança | [guias/governanca.md](guias/governanca.md) |
-| Guia dos professores | [guias/guia-professores.md](guias/guia-professores.md) |
+| Guia dos Professores | [guias/guia-professores.md](guias/guia-professores.md) |
 | GitHub Enterprise CEUB | [guias/github-enterprise-campus-ceub.md](guias/github-enterprise-campus-ceub.md) |
-| Rubrica de avaliação | [guias/rubrica-avaliacao.md](guias/rubrica-avaliacao.md) |
+| Rubrica de Avaliação | [guias/rubrica-avaliacao.md](guias/rubrica-avaliacao.md) |
 
 
-# Para Alunos:
+# Para Estudantes:
 
 ## Visão Geral de como trabalhar nos repositórios
 
-1. Leia o [guia dos alunos](guias/guia-alunos.md).
+1. Leia o [Guia dos Estudantes](guias/guia-alunos.md).
 2. Consulte as `issues` abertas e a `milestone` da sprint atual.
 3. Crie uma `branch` a partir de uma `issue`.
 4. Abra um `pull request` para revisão.
