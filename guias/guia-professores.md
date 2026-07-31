@@ -6,7 +6,7 @@ Este guia orienta os professores a usar o template institucional em disciplinas 
 
 ## Criação do repositório
 
-1. Crie um repositório a partir do [repositório de template institucional](https://github.com/CAMPUSCEUB/TEMPLATE-repositorio-projeto-integrador).
+1. Crie um repositório a partir do [TEMPLATE-repositorio-projeto-integrador](https://github.com/CAMPUSCEUB/TEMPLATE-repositorio-projeto-integrador).
 2. Use um nome do projeto que representa o sistema ou ativo de TI que será gerado e que tenha sido aprovado no subsistema de portfólio de TI. (ex. **SisControleVendas**)
 3. Defina a visibilidade conforme a política institucional da Cátedra de Projetos de TI.
 4. Convide os alunos com a permissão adequada.
