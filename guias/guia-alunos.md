@@ -1,4 +1,4 @@
-# Guia dos alunos
+# Guia dos Estudantes
 
 ## Rotina de trabalho
 
