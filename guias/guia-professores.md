@@ -62,7 +62,7 @@ Para facilitar, pense em uma EAP (Estrutura Analítica do Projeto).   O sistema 
 Como organizar então as Issues que representam os requisitos de um sistema?
 
 1. Estimule os estudantes a dividir o sistema em módulos.  Por exemplo: o módulo de "Contas a Pagar".
-2. Para cada módulo, peça para o estudantes criar uma `issue` do Tipo "epic".
+2. Para cada módulo, peça para estudante criar uma `issue` do Tipo "epic".
 3. Peça para os estudantes dividirem os módulos em grandes funcionalidades. No caso do "Contas a Pagar", seriam por exemplo: "Cadastro de Fornecedores", "Agendamento de Boletos", "Conciliação Bancária" e "Alertas de vencimento"
 4. Crie sub-issues aos `epic` uma `issue` do tipo `feature` para cada funcionalidade.
 5. Peça aos estudantes para localizarem o `Project` correspondente ao Repositório do sistema.
