@@ -37,7 +37,7 @@ Conceda aos alunos apenas as permissões necessárias para colaborar no reposit�
 * 2 semanas: recomendação equilibrada para a maioria das turmas.
 * 4 semanas: adequada para projetos com maior carga de pesquisa ou menor frequência de encontros.
 
-## Marcos
+## Milestones (marcos de projeto)
 
 Crie `milestones` por sprint ou marco avaliativo para organizar o backlog, tornar os prazos visíveis e consolidar o acompanhamento das entregas previstas em cada etapa da disciplina. 
 
