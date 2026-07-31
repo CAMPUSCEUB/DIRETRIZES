@@ -34,7 +34,7 @@ Mantenha esses nomes exatos para preservar a compatibilidade com os forms de `is
 
 - `Status`: `Backlog`, `Ready`, `In Progress`, `Review`, `Done`.
 - `Sprint`: sprint ou `milestone` correspondente.
-- `Responsável`: aluno, dupla ou grupo.
+- `Responsável`: estudantes, dupla ou grupo.
 - `Prioridade`: `Alta`, `Média`, `Baixa`.
 - `Label`: as mesmas geradas na criação da Issue que são `enhancement`, `bug`, `documentation` e `research`
 - `Tipo`: `Epic`, `Feature`, `PBI` (Product Backlog Item / User Story), `Task`,  em conformidade com o modelo SCRUM .

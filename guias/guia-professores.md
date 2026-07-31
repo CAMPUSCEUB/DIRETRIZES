@@ -62,14 +62,14 @@ Para facilitar, pense em uma EAP (Estrutura Analítica do Projeto).   O sistema 
 Como organizar então as Issues que representam os requisitos de um sistema?
 
 1. Estimule os estudantes a dividir o sistema em módulos.  Por exemplo: o módulo de "Contas a Pagar".
-2. Para cada módulo, peça para o aluno criar uma `issue` do Tipo "epic".
+2. Para cada módulo, peça para o estudantes criar uma `issue` do Tipo "epic".
 3. Peça para os estudantes dividirem os módulos em grandes funcionalidades. No caso do "Contas a Pagar", seriam por exemplo: "Cadastro de Fornecedores", "Agendamento de Boletos", "Conciliação Bancária" e "Alertas de vencimento"
 4. Crie sub-issues aos `epic` uma `issue` do tipo `feature` para cada funcionalidade.
 5. Peça aos estudantes para localizarem o `Project` correspondente ao Repositório do sistema.
 6. Para cada `issue` do tipo `feature`, peça aos estudantes para pensarem em User Story que consigam ser desenvolvidas dentro de uma Sprint.
 7. Para cada User Story, peça para que cadastrem uma `issue` do tipo `PBI`
-8. Para cada `issue` do tipo `PBI`, peça para que o aluno planeje as tarefas que serão necessárias de executar para entregar o `PBI`. 
-9. Para cada tarefa, cadastre uma subissue do tipo `task`. Lembre-se de que as tarefas devem estar com o verbo no infinitivo e que tenham alocação apenas para um aluno! Evite grupos em tarefas para não perder a rastreabilidade de quem fez o quê.
+8. Para cada `issue` do tipo `PBI`, peça para que o estudantes planeje as tarefas que serão necessárias de executar para entregar o `PBI`. 
+9. Para cada tarefa, cadastre uma subissue do tipo `task`. Lembre-se de que as tarefas devem estar com o verbo no infinitivo e que tenham alocação apenas para um estudantes! Evite grupos em tarefas para não perder a rastreabilidade de quem fez o quê.
 
 ## Acompanhamento
 
