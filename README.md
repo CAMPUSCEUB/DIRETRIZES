@@ -6,7 +6,7 @@ Este repositório tem como objetivo reunir guias e orientações para alunos e p
 
 Neste repositório você irá encontrar as seguintes orientações:
 
-# Pra Professores: 
+# Para Professores: 
 
 | Item | Link |
 | --- | --- |
