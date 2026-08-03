@@ -5,14 +5,13 @@
 Este guia orienta os professores a usar o template institucional em disciplinas de Projeto Integrador na organização do GitHub Enterprise `Campus-CEUB`.
 
 ## Antes de Criar o Repositório
-- Verifique se a ideia de projeto está devidamente cadastrada no [Portfólio de Projetos de TI](https://docs.google.com/spreadsheets/d/1uBgeeG8bdzv0SG11Di0s670Zw7WOJtTmZ70qMEME8VM/edit?usp=sharing)
-    - Se o projeto estiver com o status "disponível", pode seguir para a [criação de repositório](##criacao-do-repositorio)
+- Verifique se a ideia de projeto está devidamente cadastrada no [Portfólio de Projetos de TI](https://docs.google.com/spreadsheets/d/1uBgeeG8bdzv0SG11Di0s670Zw7WOJtTmZ70qMEME8VM/edit?usp=sharing).
+    - Se o projeto estiver com o status "disponível", pode seguir para a [criação de repositório](##criacao-do-repositorio).
     - Se o projeto estiver com o status "em execução", provavelmente já tem repositório criado.  Neste caso, veja o nome do professor responsável e o procure para ter acesso ao repositírio.
         - Caso o professor responsável não esteja disponível, abra uma `issue` para a equipe responsável do [Repositório Institucional de Projetos](CAMPUS/CEUB/SI_Repositorio_Projetos) para liberar acesso
-    - Se o projeto não estiver no Portfólio de [Portfólio de Projetos de TI](https://docs.google.com/spreadsheets/d/1uBgeeG8bdzv0SG11Di0s670Zw7WOJtTmZ70qMEME8VM/edit?usp=sharing)
-        - Solicite ao aluno para cadastrar sua ideia de projeto no [Formulário de Captacação de Demandas do Aluno](https://forms.gle/RRqE5BK2WoK6Jz3y5) ou
-        - O professor pode sugerir uma ideia de projto no [Formulário de captação de demandas do Professor](https://forms.gle/2vWBZYLLZTQfZnEb7)
-        - 
+    - Se o projeto não estiver no Portfólio de [Portfólio de Projetos de TI](https://docs.google.com/spreadsheets/d/1uBgeeG8bdzv0SG11Di0s670Zw7WOJtTmZ70qMEME8VM/edit?usp=sharing).
+        - Solicite ao aluno para cadastrar sua ideia de projeto no [Formulário de Captacação de Demandas do Aluno](https://forms.gle/RRqE5BK2WoK6Jz3y5), ou 
+        - O professor pode sugerir uma ideia de projeto no [Formulário de captação de demandas do Professor](https://forms.gle/2vWBZYLLZTQfZnEb7) 
 
 ## Criação do repositório
 
