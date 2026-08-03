@@ -1,5 +1,7 @@
 # Orientações a Professores e Estudantes
-Repositório com orientações de uso do repositório institucional do CEUB no GitHub
+Este projeto está sob escopo e coordenação da Cátedra de Projetos de TI e faz parte do [Sistema de Inovação de TI do CEUB](https://docs.google.com/presentation/d/1JltOtNupTAm1FW7dHW0t2XbnohYYMoOt6b-MQgae4eg/edit?usp=sharing)
+
+Repositório com orientações de uso do [repositório institucional de projetos](https://github.com/CAMPUSCEUB/SI_repositorio_projetos) do CEUB no GitHub
 (para uso em projetos integradores, disciplinas regulares e outros projetos acadêmicos).
 
 Este repositório tem como objetivo reunir guias e orientações para estudantes e professores na condução de projetos acadêmicos no GitHub institucional.
