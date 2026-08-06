@@ -26,10 +26,10 @@ Este guia orienta os professores a usar o template institucional em disciplinas 
 
 Ao iniciar a turma, configure o repositório como espaço oficial da disciplina, revise o material base do template e alinhe com os estudantes como `issues`, `branches`, `pull requests` e relatórios de sprint serão usados ao longo do semestre.
 
-## Equipes
+<!-- ## Equipes
 
 Organize os estudantes em times conforme a estratégia da disciplina. Os times podem representar grupos fixos de projeto ou apenas facilitar a administração de acesso, o acompanhamento e a distribuição de responsabilidade dentro do GitHub Enterprise.
-    
+-->
 ## Permissões
 
 Conceda aos estudantes apenas as permissões necessárias para colaborar no repositório, mantendo a governança institucional sobre a `main`, os artefatos avaliativos e as configurações principais do projeto.
