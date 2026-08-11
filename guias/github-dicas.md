@@ -1,10 +1,10 @@
 # Dicas e orientações para GitHub
 
-O GitHub foi escolhido como ferramente para implementar o Repositório Institucional de Projetos de TI do CEUB
+O GitHub foi escolhido como ferramenta para implementar o Repositório Institucional de Projetos de TI do CEUB.
 
-Nesse sentido, é fundamental que você conheça bem a ferramenta e as ferramenta auxiliares para que sua jornada nas disciplinas que utilizam o Repositório Institucional possa transcorrer de maneira fluida.
+Nesse sentido, é fundamental que você conheça bem a infraestrutura da ferramenta e as ferramentas auxiliares (dev.github, vsCode, GitCli) para que sua jornada nas disciplinas que utilizam o Repositório Institucional possa transcorrer de maneira fluida.
 
-Seguem algumas fontes para que você busque e aprimore suas competências nessa plataforma
+Segue algumas dicas  para que você busque e aprimore suas competências nessa plataforma:
 
 * 1 - Fique atento na Sala de Aula Online.  Seus professores irão postar aulas, dicas e indicar cursos e materiais de interesse.
 * 2 -  Entre no [GithHub Learn](https://learn.github.com).  
