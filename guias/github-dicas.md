@@ -16,4 +16,5 @@ Seguem algumas fontes para que você busque e aprimore suas competências nessa 
 * 7 - Se desejar, faça a matrícula na disciplina do Bootcamp CEUB. Verifique as ofertas no Espaço Aluno.  Caso tenha dúvidas, procure a Coordenação de curso.
 * 8 - Acione seus colegas de turma e professores. Eles podem te orientar para casos específicos.
 
-
+## Cursos e treinamentos CEUB
+[Assista aqui](https://drive.google.com/file/d/1WY48RYAwhPwUg1i0o8r6ZuKUny7NxuFd/view) o video do curso de Fundamentos do Repositório Institucional realizado em 06/08/2026.  (Precisa estar autenticado com @sempreceub.com ou @ceub.edu.br)
