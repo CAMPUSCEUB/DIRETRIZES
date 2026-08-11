@@ -8,6 +8,11 @@ Este repositório tem como objetivo reunir guias e orientações para estudantes
 
 Neste repositório você irá encontrar as seguintes orientações:
 
+# Para quem está começando no GitHub ou para quem quer avançar
+
+[Aqui](guias/github-dicas.md) você encontra dicas e orientações de como começar sua jornada no uso do GitHub e ferramentas correlatas;
+
+
 # Para Professores: 
 
 | Item | Link |
