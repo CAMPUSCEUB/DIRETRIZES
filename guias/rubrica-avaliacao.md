@@ -7,23 +7,24 @@ Estas rubricas apoiam o professor e a equipe na avaliação por evidências audi
 | --- | --- | --- | --- | --- | --- |
 | Participação individual rastreável | A contribuição individual aparece de forma contínua em commits, `reviews`, `issues` e registros de decisão. | A contribuição individual é visível na maior parte da sprint. | A participação aparece de forma esporádica ou pouco clara. | Não existe participação individual rastreável. | Commits, comentários, `reviews`, atribuições e histórico da sprint. |
 | Decisões registradas | As decisões relevantes estão justificadas, datadas e vinculadas ao contexto da entrega. | As principais decisões foram registradas, com racional suficiente. | Parte das decisões existe, mas sem contexto ou consistência. | Decisões importantes não foram registradas. | ADRs, `issues`, `pull requests`, atas e comentários. |
-| Entregas incrementais | A equipe entrega valor por sprint ou `milestone`, com recortes pequenos e validáveis. | Há entregas incrementais na maior parte do período. | As entregas são irregulares ou grandes demais para inspeção. | O trabalho só aparece no fim ou sem incremento verificável. | `pull requests`, fechamento de `issues`, relatório de sprint e `milestones`. |
 | Colaboração | A equipe colabora com handoff claro, apoio mútuo e `reviews` consistentes. | Existe colaboração adequada, com poucas falhas de coordenação. | Colaboração limitada ou concentrada em poucos integrantes. | Não há evidências suficientes de colaboração. | `reviews`, comentários, atribuições e histórico das `issues`. |
 | Resolução de impedimentos | Os impedimentos são registrados cedo, tratados com plano de ação e acompanhados até a resolução. | Os impedimentos são tratados com alguma regularidade e registro. | Os impedimentos aparecem tarde ou sem acompanhamento consistente. | Os impedimentos travam a entrega sem tratamento visível. | `issues`, comentários, atas, relatório de sprint e ajustes de escopo. |
-| Aderência ao Definition of Done e evidência de validação | Toda entrega cumpre o DoD, mostra validação objetiva e relaciona a evidência ao que foi entregue. | A maior parte das entregas cumpre o DoD e apresenta validação suficiente. | Há cumprimento parcial do DoD ou evidências de validação fracas. | Há entregas sem DoD verificável ou sem validação confiável. | `pull requests`, checklist de entrega, testes, capturas e registros de validação. |
+
 
 ## Rubricas de avaliação relacionadas ao projeto
 | Critério | Excelente <br>SS | Bom <br>MS | Parcial<br>MM | Insuficiente <br>MI ou II | Evidências auditáveis |
 | --- | --- | --- | --- | --- | --- |
 | Planejamento | Backlog priorizado, `issues` claras, `milestones` e relatório de sprint coerentes com a entrega. | Planejamento suficiente, com pequenas lacunas de detalhamento ou priorização. | Planejamento incompleto, com `issues` vagas ou pouca previsibilidade. | Não há planejamento confiável nem encadeamento entre backlog e entrega. | `issues`, `milestones`, relatório de sprint e quadro do projeto. |
 | Escopo | EAP e `Backlog` no `Project` compatíveis e com rastreabilidade por meio de `labels`| Escopo com deficiências pontuais nas entregas obrigatórias definidas pelo professor no plano de ensino | escopo se confunde com tarefas, mas ainda assim permite uma visão clara do que o projeto deve de fato entregar | faltam elementos importantes do escopo, EAP ausente,  | `tasks`, `backlog`, `project`, `labels` |
+| Entregas incrementais | A equipe entrega valor por sprint ou `milestone`, com recortes pequenos e validáveis. | Há entregas incrementais na maior parte do período. | As entregas são irregulares ou grandes demais para inspeção. | O trabalho só aparece no fim ou sem incremento verificável. | `pull requests`, fechamento de `issues`, relatório de sprint e `milestones`. |
+| Aderência ao Definition of Done e evidência de validação | Toda entrega cumpre o DoD, mostra validação objetiva e relaciona a evidência ao que foi entregue. | A maior parte das entregas cumpre o DoD e apresenta validação suficiente. | Há cumprimento parcial do DoD ou evidências de validação fracas. | Há entregas sem DoD verificável ou sem validação confiável. | `pull requests`, checklist de entrega, testes, capturas e registros de validação. |
 
 
 ## Rubricas de avaliação relacionadas ao produto
 | Critério | Excelente <br>SS | Bom <br>MS | Parcial<br>MM | Insuficiente <br>MI ou II | Evidências auditáveis |
 | --- | --- | --- | --- | --- | --- |
 | Qualidade da documentação | Os documentos estão completos, claros, atualizados e apoiam o entendimento e a avaliação. | A documentação atende ao essencial, com pequenos pontos de melhoria. | Documentação parcial, desatualizada ou pouco objetiva. | Documentação ausente, incoerente ou inútil para auditoria. | Arquivos em `docs/`, histórico de edições e links cruzados. |
-| Completude |capacidades avançadas|capacidades intermediárias|capacidades básicas| deficiências nas capacidades básicas | `docs`, `entregas`  |
+| Completude |capacidades avançadas|capacidades intermediárias|capacidades básicas| deficiências nas capacidades básicas | `docs`, `entregas`,`software`   |
 
 ### Lista de Capacidades do Produto
 Julgue os itens para compor a completude. As capacidades são cumulativas.
