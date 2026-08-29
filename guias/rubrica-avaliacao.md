@@ -24,11 +24,11 @@ Estas rubricas apoiam o professor e a equipe na avaliação por evidências audi
 | Critério | Excelente <br>SS | Bom <br>MS | Parcial<br>MM | Insuficiente <br>MI ou II | Evidências auditáveis |
 | --- | --- | --- | --- | --- | --- |
 | Qualidade da documentação | Os documentos estão completos, claros, atualizados e apoiam o entendimento e a avaliação. | A documentação atende ao essencial, com pequenos pontos de melhoria. | Documentação parcial, desatualizada ou pouco objetiva. | Documentação ausente, incoerente ou inútil para auditoria. | Arquivos em `docs/`, histórico de edições e links cruzados. |
-| Completude |capacidades avançadas|capacidades intermediárias|capacidades básicas| deficiências nas capacidades básicas | `docs`, `entregas`,`software`   |
+| Completude |grande parte das capacidades avançadas|100% das capacidades intermediárias|100% das capacidades básicas| deficiências nas capacidades básicas | `docs`, `entregas`,`software`   |
 
 ### Lista de Capacidades do Produto
 Julgue os itens para compor a completude. As capacidades são cumulativas.
-- [x] autenticação (básica)
+- [x] autenticação com OpenID Connect (OIDC), de preferência GoogleID, mas pode ser Microsoft Entra ID, GitHub ou ORCID
 - [x] cadastros (básica)
 - [x] relatórios e listagens (básica)
 - [x] navegação (básica)
@@ -44,15 +44,6 @@ Julgue os itens para compor a completude. As capacidades são cumulativas.
 - [ ] campos customizados (avançada)
 - [ ] uso da câmera do celular (avançada)
 - [ ] Dashboards (avançada)
-- [ ] sincronização com servidores em nuvem
-
-
- 
- 
- 
- 
- 
-
-
-
-
+- [ ] sincronização com servidores em nuvem (avançada)
+- [ ] uso do GPS, aceletrômetro, bússola
+- [ ] chamadas de APIs 
