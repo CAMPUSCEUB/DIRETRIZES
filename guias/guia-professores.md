@@ -82,7 +82,7 @@ Use `issues`, `pull requests`, commits, `reviews`, `milestones`, relatórios de 
 
 ## Avaliação
 
-A rubrica sugerida está em [rubrica-avaliacao.md](rubrica-avaliacao.md). O professor pode adaptar os pesos e os critérios conforme o plano de ensino.
+As rubricas sugeridas para avaliação do projeto e dos estudantes estão em [rubrica-avaliacao.md](rubrica-avaliacao.md). O professor pode adaptar os pesos e os critérios conforme o plano de ensino.
 
 ## Integração contínua (opcional)
 
