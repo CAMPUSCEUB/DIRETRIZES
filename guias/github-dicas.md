@@ -12,6 +12,7 @@ Seguem algumas dicas, para que você busque e aprimore suas competências nessa 
 * 4 - Encontre repositórios com exercícios e dicas no GitHub.  Por exemplo o [activities.github.io](https://github.com/MetzinAround/activities.github.io).  Existem inúmeros _users_ que contribuem com repositórios interessantes como esse.
 * 5 - Busque [treinamentos adicionais](https://learn.microsoft.com/pt-br/training/github/) ou [certificações](https://learn.github.com/credentials) sobre o GitHub.
 * 6 - Acione seus colegas de turma e professores. Eles podem te orientar para casos específicos.
+* 7 - Entre na Plataforma [Bora na Tech](https://boranatech.com.br/)  e vejam os cursos de Git e GitHub oferecidos e interajam com especialistas e alnunos da comunidade
 
 ## Cursos e treinamentos CEUB
 [Assista aqui](https://drive.google.com/file/d/1WY48RYAwhPwUg1i0o8r6ZuKUny7NxuFd/view) o video do curso de Fundamentos do Repositório Institucional realizado em 06/08/2026.  (Precisa estar autenticado com @sempreceub.com ou @ceub.edu.br)
